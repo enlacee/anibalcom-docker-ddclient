@@ -1,6 +1,6 @@
-# anibalCopitan.com config DDCLIENT
+# anibalCopitan.com : service Ddclient
 
-service docker Dynamic DNS with Namecheap and ddclient service
+A Docker service: Using Dynamic DNS with Namecheap and ddclient service
 
 ## Installation
 
@@ -10,4 +10,3 @@ Now you must be modified the DNS Provider NameCheap Credencial
 Open: config/ddclient.conf	
 
 	password=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
